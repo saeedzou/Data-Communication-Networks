@@ -1,4 +1,4 @@
-// Saeedreza Zouashkiani 400206262
+
 #include "ns3/core-module.h"
 #include "ns3/yans-wifi-helper.h"
 #include "ns3/yans-wifi-channel.h"
